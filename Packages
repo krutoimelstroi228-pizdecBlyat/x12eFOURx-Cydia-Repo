@@ -1,0 +1,10 @@
+Package: com.booleanmagic.displayrecorder
+Name: Display Recorder
+Version: 1.3.22~beta1
+Section: Tweaks
+Architecture: iphoneos-arm
+Author: Ryan Petrich
+Description: Запись экрана вашего устройства.
+Filename: debs/DisplayRec.deb
+Size: 914570
+MD5sum: c337781a37e78e81958869803fa1095b
