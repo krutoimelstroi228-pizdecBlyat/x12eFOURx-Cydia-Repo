@@ -5,6 +5,6 @@ Architecture: iphoneos-arm
 Description: Лучшая запись экрана для iOS 6!
 Section: ios 6 tweaks
 Maintainer: x12e4x
-Filename: ./DisplayRecorder.deb
+Filename: debs/DisplayRec.deb
 Size: 914570
-MD5sum: <md5_хеш_твоего_deb_файла>
+MD5Sum: c337781a37e78e81958869803fa1095b
